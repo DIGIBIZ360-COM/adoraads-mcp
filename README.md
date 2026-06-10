@@ -91,3 +91,5 @@ curl -X POST https://mcp.adoraads.ai/beauty \
 Technology architect of a global luxury beauty retailer's 
 retail media network. Duke MBA · BITS Pilani M.S. · 
 35 years global executive experience.
+[![smithery badge](https://smithery.ai/badge/kapilsbox/adoraads_ai)](https://smithery.ai/servers/kapilsbox/adoraads_ai)
+https://smithery.ai/servers/kapilsbox/adoraads_ai
